@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796991571169",
+    "project_id": "gudang-barang-586cb",
+    "storage_bucket": "gudang-barang-586cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796991571169:android:05fa191174ac259e3763a0",
+        "android_client_info": {
+          "package_name": "gudang.com.gudang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796991571169-8p123rpm3pqd9ikq04km2q1uqqhttske.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0wRMZ32CzIHjDuWDxPLQXTdUgf5RCmrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796991571169-8p123rpm3pqd9ikq04km2q1uqqhttske.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
